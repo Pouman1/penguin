@@ -12,7 +12,7 @@ This course can expand on pre-lecture videos because they may help students feel
 <img src="/penguin/static/imgs/box_plot_understanding.png" alt="Image of Pre-Lecutre Videos vs Understanding of Course. "  width="600"/>
 
 # Conclusion
-Overall, my analysis suggests that expanding the use of optional pre-lecture videos could create value for students in COMP 110. The cuntplot showed that a large amount of students rated pre-lecture videos very highly, with responses concentrated around 5, 6, and 7. This suggests taht many students could benefit from these videos. 
+Overall, my analysis suggests that expanding the use of optional pre-lecture videos could create value for students in COMP 110. The countplot showed that a large amount of students rated pre-lecture videos very highly, with responses concentrated around 5, 6, and 7. This suggests taht many students could benefit from these videos. 
 
 The boxplots also revealed some useful patterns. Students who reported lower understanding of course material often showed stronger support for pre-lecture videos. People who found the course as difficult also tended to support them more strongly. This shows that these videos may benefit students who struggle with the pace or diffuculty of the course. 
 
