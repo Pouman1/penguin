@@ -7,9 +7,9 @@ layout: default
 This course can expand on pre-lecture videos because they may help students feel more prepared for classes and improve overall understanding for the class. This idea can be directly backed with variables such as pre_lecture_videos, understanding, difficulty, and pace. Comparing how students feel about pre lecture videos with how well they understand course material can produce evidence-based claims. 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/penguin/static/imgs/pre_lecture_video_rating" alt="Image of Comp110 rainbow logo. "  width="600"/>
-<img src="/penguin/static/imgs/box_plot_difficulty" alt="Image of Comp110 rainbow logo. "  width="600"/>
-<img src="/penguin/static/imgs/box_plot_understanding" alt="Image of Comp110 rainbow logo. "  width="600"/>
+<img src="/penguin/static/imgs/pre_lecture_video_rating.png" alt="Image of Approval of Pre-Lecture Videos. "  width="600"/>
+<img src="/penguin/static/imgs/box_plot_difficulty.png" alt="Image of Pre-Lecutre Videos vs Difficulty of Course. "  width="600"/>
+<img src="/penguin/static/imgs/box_plot_understanding.png" alt="Image of Pre-Lecutre Videos vs Understanding of Course. "  width="600"/>
 
 # Conclusion
 Overall, my analysis suggests that expanding the use of optional pre-lecture videos could create value for students in COMP 110. The cuntplot showed that a large amount of students rated pre-lecture videos very highly, with responses concentrated around 5, 6, and 7. This suggests taht many students could benefit from these videos. 
